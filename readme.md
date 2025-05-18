@@ -25,7 +25,6 @@ Includes retry logic with Dead Letter Exchange (DLX) and a background queue cons
 - Flask  
 - RabbitMQ  
 - MongoDB  
-- [Pika](https://pika.readthedocs.io/) (RabbitMQ client)  
 - [PyMongo](https://pymongo.readthedocs.io/) (MongoDB client)  
 
 ---
